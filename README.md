@@ -25,12 +25,8 @@ This model has the following features:
 This system achieved a weighted F1 score of approximately 0.7446 on the cross-validation set.
 See Model 2.py
 
-## Usage
+## Usage:
 ```bash
 git clone https://github.com/Georgiazhang99/identification_of_roles_associated_with_cyberbulling_posts
 python Model1.py
-
-To run model 2, run
-```bash
-python Model2.py
 
