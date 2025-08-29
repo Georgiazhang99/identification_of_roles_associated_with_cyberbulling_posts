@@ -15,6 +15,7 @@ This model has the following features:
 - Embeddings: FastText word embeddings
 - Classification: Logistic Regression classifier
 This system achieved a weighted F1 score of approximately 0.7492 on the cross-validation set.
+
 See Model1.py
 
 ## Model 2: Logistic Regression Classifier paired with Universal Sentence Encoder embeddings
@@ -23,6 +24,7 @@ This model has the following features:
 - Embeddings: Universal Sentence Encoder embeddings
 - Classification: Logistic Regression classifier
 This system achieved a weighted F1 score of approximately 0.7446 on the cross-validation set.
+
 See Model 2.py
 
 ## Usage:
