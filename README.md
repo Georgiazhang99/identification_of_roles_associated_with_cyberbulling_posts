@@ -17,6 +17,8 @@ See Model.py
 ## Usage:
 ```bash
 git clone https://github.com/Georgiazhang99/identification_of_roles_associated_with_cyberbulling_posts
+# using TF-HUB Universal Encoder
+# Install the latest Tensorflow Hub version of the Universal Sentence Encoder
 pip3 install --quiet "tensorflow>=1.7"
 pip3 install --quiet tensorflow-hub
 pip3 install --quiet seaborn
